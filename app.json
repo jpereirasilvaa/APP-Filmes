@@ -1,0 +1,17 @@
+{
+  "name": "netflix",
+  "displayName": "netflix",
+  "expo": {
+    "name": "netflix",
+    "slug": "netflix",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
